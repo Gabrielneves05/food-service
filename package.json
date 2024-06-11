@@ -1,0 +1,15 @@
+{
+  "name": "food-service",
+  "version": "1.0.0",
+  "description": "Aplicação de vendas online de produtos alimenticios em Javascript, HTML, CSS e Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
